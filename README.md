@@ -6,7 +6,7 @@ https://efficient-sloth-d85.notion.site/Atividade-Mapeando-o-dom-nio-38963358ffd
   - estoque
   - ordem de compra
   - vendedor
-  - pedido
+  - pedido de venda
   - cliente
   - notificação
 
