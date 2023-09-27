@@ -26,3 +26,7 @@ https://efficient-sloth-d85.notion.site/Atividade-Mapeando-o-dom-nio-38963358ffd
   - realizar pedido de venda
   - intregrar com fornecedores
   - Criar e Gerenciar Ordens de Compra Automático
+
+  # setup
+
+  [] 
